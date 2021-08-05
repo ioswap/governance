@@ -1,6 +1,6 @@
 {
   "name": "@io-swap/governance",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "🏛 Governance contracts for the ioswap protocol",
   "author": "Noah Zinsmeister",
   "license": "MIT",
